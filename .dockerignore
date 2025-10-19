@@ -1,0 +1,24 @@
+# user data
+Voice/
+Images/
+History/
+tmp/
+
+# audio / temp
+*.mp3
+*.ogg
+*.oga
+*.wav
+
+# python
+__pycache__/
+*.pyc
+
+# env and secrets
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
