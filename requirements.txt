@@ -1,0 +1,8 @@
+python-telegram-bot==20.4
+pytesseract==0.3.10
+opencv-python-headless==4.8.1.78
+numpy==1.26.2
+httpx==1.1.1
+requests==2.32.0
+pillow==10.1.0
+pydub==0.25.1
